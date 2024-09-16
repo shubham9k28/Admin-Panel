@@ -1,0 +1,14 @@
+.inp {
+
+    background-image: url('./image2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 100px;
+    /* margin-right: 10px; */
+    height: 100% ;
+}
+.cls{
+
+    background-color: rgba(203, 203, 203, 0.509);
+    color: blanchedalmond;
+}

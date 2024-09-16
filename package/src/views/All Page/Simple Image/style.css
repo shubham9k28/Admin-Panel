@@ -1,0 +1,41 @@
+.inp { 
+
+    box-shadow: inset 6px 6px 10px 0 rgba(0, 0, 0, 0.2),inset -6px -6px 10px 0 rgba(255, 255, 255, 0.5)
+}
+
+.cnp{
+    box-shadow: inset 8px 8px 15px 0 rgba(0, 0, 0, 0.2),inset -8px -8px 15px 0 rgba(255, 255, 255, 0.5)
+
+}
+
+.userform {
+    background-image: url('./Rolls\ Royce\ Aesthetic\ Wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100% ;
+    padding: 40px 100px;
+    margin-right: 10px;
+  }
+ .slc{
+    color: white;
+ }
+    .inn2{
+        background-image: url('./bg.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .inn{
+    box-shadow: inset 8px 8px 15px 0 rgba(0, 0, 0, 0.2),inset -8px -8px 15px 0 rgba(255, 255, 255, 0.5)
+    
+  } 
+
+
+  .profile{
+    background-image: url('./pexels-matej-117839-1074882.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100% ;
+    padding: 40px 100px;
+    margin-right: 10px;
+
+  }
